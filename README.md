@@ -10,4 +10,5 @@ API:https://yts-proxy.now.sh/list_movies.json
 
 ### Deploy
 
-Github
+Github:
+https://kimute.github.io/my_movie_app/
